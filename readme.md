@@ -15,5 +15,5 @@ Using the .sql, import it to our database
 //For Town// 
 *access endpoint 127.0.0.1:5000/api/town?name=bolgatanga*
 
-//For Market Day
+//For Market Day [under development]
 *http://127.0.0.1:5000/api/market-day?town=bolgatanga*
